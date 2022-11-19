@@ -1,0 +1,5 @@
+./ipynb_checkpoints*
+*./ipynb_checkpoints*
+*./ipynb_checkpoints/*
+./ipynb_checkpoints/*
+'.ipynb_checkpoints/Food Ingredients Conversion-checkpoint.ipynb' 

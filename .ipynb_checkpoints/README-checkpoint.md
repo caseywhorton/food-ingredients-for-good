@@ -1,5 +1,32 @@
 # food-ingredients-for-good
 
+# Plan
+
+1. Data discovery
+    + Kaggle dataset
+    + Recipe data
+2. Data model
+    + fact
+    + dim
+        + UOM
+3. EDA
+4. Classifying ingredients
+    + Clustering
+        + Numeric features
+        + Unstructured features
+    + Deep learning from unstructured text
+5. Conversions
+    + Adding this step for now
+6. Recipe comparison
+7. Data pipeline
+    + preprocessing (cleanse and prepare data)
+        + pre deployment
+        + post deployment
+    + predictions
+    + consumption
+8. Refactor code?
+
+
 # virtual environment
 
 `pip3 install virtualenv`
