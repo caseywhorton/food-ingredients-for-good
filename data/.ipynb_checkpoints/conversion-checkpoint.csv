@@ -1,0 +1,82 @@
+﻿id,ingredient,type,uom,uom_conversion,conversion_factor
+1,all,weight,ounces,ounces,1.00
+2,all,weight,ounces,pounds,0.0625
+3,all,weight,ounces,grams,28
+4,all,weight,ounces,kilograms,0.028
+5,all,weight,pounds,ounces,16
+6,all,weight,pounds,pounds,1
+7,all,weight,pounds,grams,0.00220462
+8,all,weight,pounds,kilograms,2.2
+9,all,weight,kilograms,ounces,32
+10,all,weight,kilograms,pounds,0.454545455
+11,all,weight,kilograms,grams,1000
+12,all,weight,kilograms,kilograms,1
+13,all,weight,grams,ounces,0.035714286
+14,all,weight,grams,pounds,453
+15,all,weight,grams,grams,1
+16,all,weight,grams,kilograms,1000
+17,flour unbleached,weight,cup,ounces,4.25
+18,flour self rising,weight,cup,ounces,4
+19,flour unbleached,weight,cup,grams,120
+20,flour self rising,weight,cup,grams,113
+21,flour unbleached,weight,ounces,cup,0.235294118
+22,flour self rising,weight,ounces,cup,0.25
+23,flour unbleached,weight,grams,cup,0.008333333
+24,flour self rising,weight,grams,cup,0.008849558
+25,flour unbleached,weight,ounces,grams,28.23529412
+26,flour self rising,weight,ounces,grams,28.25
+27,flour unbleached,weight,grams,ounces,0.035416667
+28,flour self rising,weight,grams,ounces,0.03539823
+29,sugar white,weight,cup,ounces,7
+30,sugar white,weight,cup,grams,198
+31,sugar white,weight,ounces,cup,0.142857143
+32,sugar white,weight,ounces,grams,28.28571429
+33,sugar white,weight,grams,cup,0.005050505
+34,sugar white,weight,grams,ounces,0.035353535
+35,baking powder,weight,teaspoons,grams,4
+36,baking powder,weight,grams,teaspoons,0.25
+37,baking soda,weight,teaspoons,grams,6
+38,baking soda,weight,grams,teaspoons,0.166666667
+39,butter,weight,cups,tablespoons,16
+40,butter,weight,cups,ounces,8
+41,butter,weight,cups,grams,226
+42,butter,weight,cups,sticks,2
+43,butter,weight,sticks,cups,0.5
+44,butter,weight,ounces,cups,0.125
+45,butter,weight,grams,cups,0.004424779
+46,butter,weight,grams,ounces,0.03539823
+47,butter,weight,ounces,grams,28.25
+48,butter,weight,sticks,tablespoons,8
+49,butter,weight,tablespoons,sticks,0.125
+50,butter,weight,ounces,sticks,0.25
+51,butter,weight,ounces,tablespoons,2
+,,,tablespoons,teaspoons,3
+,,,tablespoons,millileters,15
+,,,tablespoons,cups,0.0625
+,,,ounces,tablespoons,2
+,,,ounces,millileters,30
+,,,cups,ounces,8
+,,,cups,millileters,250
+,,,pints,cups,2
+,,,pints,millileters,500
+,,,quarts,cups,4
+,,,quarts,millileters,950
+,,,quarts,pints,2
+,,,gallons,quarts,4
+,,,gallons,millileters,3800
+,,,gallons,liters,3.8
+,,,teaspoons,tablespoons,0.333333333
+,,,millileters,tablespoons,0.066666667
+,,,cups,tablespoons,16
+,,,tablespoons,ounces,0.5
+,,,millileters,ounces,0.033333333
+,,,ounces,cups,0.125
+,,,millileters,cups,0.004
+,,,cups,pints,0.5
+,,,millileters,pints,0.002
+,,,cups,quarts,0.25
+,,,millileters,quarts,0.001052632
+,,,pints,quarts,0.5
+,,,quarts,gallons,0.25
+,,,millileters,gallons,0.000263158
+,,,liters,gallons,0.263157895

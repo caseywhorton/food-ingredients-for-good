@@ -1,0 +1,80 @@
+﻿ingredient,type,uom,uom_conversion,conversion_factor
+N/A,weight,ounces,pounds,0.0625
+N/A,weight,ounces,grams,28
+N/A,weight,ounces,kilograms,0.028
+N/A,weight,pounds,ounces,16
+N/A,weight,pounds,grams,0.00220462
+N/A,weight,pounds,kilograms,2.2
+N/A,weight,kilograms,ounces,32
+N/A,weight,kilograms,pounds,0.454545455
+N/A,weight,kilograms,grams,1000
+N/A,weight,grams,ounces,0.035714286
+N/A,weight,grams,pounds,453
+N/A,weight,grams,kilograms,1000
+flour unbleached,weight,cup,ounces,4.25
+flour self rising,weight,cup,ounces,4
+flour unbleached,weight,cup,grams,120
+flour self rising,weight,cup,grams,113
+flour unbleached,weight,ounces,cup,0.235294118
+flour self rising,weight,ounces,cup,0.25
+flour unbleached,weight,grams,cup,0.008333333
+flour self rising,weight,grams,cup,0.008849558
+flour unbleached,weight,ounces,grams,28.23529412
+flour self rising,weight,ounces,grams,28.25
+flour unbleached,weight,grams,ounces,0.035416667
+flour self rising,weight,grams,ounces,0.03539823
+sugar white,weight,cup,ounces,7
+sugar white,weight,cup,grams,198
+sugar white,weight,ounces,cup,0.142857143
+sugar white,weight,ounces,grams,28.28571429
+sugar white,weight,grams,cup,0.005050505
+sugar white,weight,grams,ounces,0.035353535
+baking powder,weight,teaspoons,grams,4
+baking powder,weight,grams,teaspoons,0.25
+baking soda,weight,teaspoons,grams,6
+baking soda,weight,grams,teaspoons,0.166666667
+butter,weight,cups,tablespoons,16
+butter,weight,cups,ounces,8
+butter,weight,cups,grams,226
+butter,weight,cups,sticks,2
+butter,weight,sticks,cups,0.5
+butter,weight,ounces,cups,0.125
+butter,weight,grams,cups,0.004424779
+butter,weight,grams,ounces,0.03539823
+butter,weight,ounces,grams,28.25
+butter,weight,sticks,tablespoons,8
+butter,weight,tablespoons,sticks,0.125
+butter,weight,ounces,sticks,0.25
+butter,weight,ounces,tablespoons,2
+N/A,volume,tablespoons,teaspoons,3
+N/A,volume,tablespoons,millileters,15
+N/A,volume,tablespoons,cups,0.0625
+N/A,volume,ounces,tablespoons,2
+N/A,volume,ounces,millileters,30
+N/A,volume,cups,ounces,8
+N/A,volume,cups,millileters,250
+N/A,volume,pints,cups,2
+N/A,volume,pints,millileters,500
+N/A,volume,quarts,cups,4
+N/A,volume,quarts,millileters,950
+N/A,volume,quarts,pints,2
+N/A,volume,gallons,quarts,4
+N/A,volume,gallons,millileters,3800
+N/A,volume,gallons,liters,3.8
+N/A,volume,teaspoons,tablespoons,0.333333333
+N/A,volume,millileters,tablespoons,0.066666667
+N/A,volume,cups,tablespoons,16
+N/A,volume,tablespoons,ounces,0.5
+N/A,volume,millileters,ounces,0.033333333
+N/A,volume,ounces,cups,0.125
+N/A,volume,millileters,cups,0.004
+N/A,volume,cups,pints,0.5
+N/A,volume,millileters,pints,0.002
+N/A,volume,cups,quarts,0.25
+N/A,volume,millileters,quarts,0.001052632
+N/A,volume,pints,quarts,0.5
+N/A,volume,quarts,gallons,0.25
+N/A,volume,millileters,gallons,0.000263158
+N/A,volume,liters,gallons,0.263157895
+N/A,volume,gallons,cups,16
+N/A,volume,ounces,cups,8
